@@ -1,0 +1,33 @@
+
+p
+java:S2095C"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(–¦Ö¸RBLOCKERZBUG
+u
+java:S2095O"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(«¬öğûÿÿÿÿRBLOCKERZBUG
+u
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Å¯Ù˜ùÿÿÿÿRBLOCKERZBUG
+h
+java:S1118":Add a private constructor to hide the implicit public one.(øÃç¥ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106'"9Replace this use of System.out or System.err by a logger.(œõ÷…üÿÿÿÿRMAJORZ
+CODE_SMELL
+V	java:S1080")Either remove or fill this block of code.(ùö±µûÿÿÿÿRMAJORZ
+CODE_SMELL
+V	java:S1082")Either remove or fill this block of code.(ÿ¼¯äøÿÿÿÿRMAJORZ
+CODE_SMELL
+Q	java:S1084")Either remove or fill this block of code.(à©…RMAJORZ
+CODE_SMELL
+i	java:S125;"<This block of commented-out lines of code should be removed.(·ÿì“şÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106E"9Replace this use of System.out or System.err by a logger.(Ó¶•İüÿÿÿÿRMAJORZ
+CODE_SMELL
+i	java:S125j"<This block of commented-out lines of code should be removed.(™”´õûÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125†"<This block of commented-out lines of code should be removed.(ÉÁâÈúÿÿÿÿRMAJORZ
+CODE_SMELL
+Y
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒRMINORZ
+CODE_SMELL
+Y
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿRMINORZ
+CODE_SMELL

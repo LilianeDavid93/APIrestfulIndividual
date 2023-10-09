@@ -1,0 +1,55 @@
+
+n
+java:S1128"BRemove this unused import 'br.com.poo.bancoAmbl3.pessoas.Cliente'.(¬Şº½HÏzRMINORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿHÑzRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¶ÚáèıÿÿÿÿHÓzRMAJORZ
+CODE_SMELL
+j
+java:S1172">Remove these unused method parameters "titular", "cpfTitular".(†ÁÚ¸HÔzRMAJORZ
+CODE_SMELL
+e
+java:S5993"9Change the visibility of this constructor to "protected".(†ÁÚ¸HØzRMAJORZ
+CODE_SMELL
+j
+java:S5993)"9Change the visibility of this constructor to "protected".(ÉäÍşÿÿÿÿHÚzRMAJORZ
+CODE_SMELL
+j
+java:S59930"9Change the visibility of this constructor to "protected".(Šê†—úÿÿÿÿHÜzRMAJORZ
+CODE_SMELL
+j
+java:S59939"9Change the visibility of this constructor to "protected".(„ˆ¤…ıÿÿÿÿHŞzRMAJORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»ÚıÿÿÿÿHàzRMINORZ
+CODE_SMELL
+s
+java:S1128"BRemove this unused import 'br.com.poo.bancoAmbl3.enums.TipoConta'.(ØĞŞÊşÿÿÿÿHâzRMINORZ
+CODE_SMELL
+q
+java:S1128	"ERemove this unused import 'br.com.poo.bancoAmbl3.enums.TipoRegistro'.(¯ÑÈªHäzRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßŒ¸ÎHæzRMINORZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'br.com.poo.bancoAmbl3.enums.StatusAnalise'.(üÁ“ÊşÿÿÿÿHçzRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(Ö×¬¦øÿÿÿÿHézRMAJORZ
+CODE_SMELL
+l	java:S125c"<This block of commented-out lines of code should be removed.(èòÛòÿÿÿÿÿHêzRMAJORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒşÿÿÿÿHîzRMINORZ
+CODE_SMELL
+e
+java:S5993"9Change the visibility of this constructor to "protected".(˜ÚŸ­HğzRMAJORZ
+CODE_SMELL
+o
+java:S1128
+"DRemove this unused import 'br.com.poo.bancoAmbl3.io.LeituraEscrita'.(‘êŠ	HòzRMINORZ
+CODE_SMELL
+e
+java:S5993#"9Change the visibility of this constructor to "protected".(£ó¨ŠHôzRMAJORZ
+CODE_SMELL

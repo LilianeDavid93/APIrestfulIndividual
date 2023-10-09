@@ -1,0 +1,44 @@
+
+l
+java:S1854";Remove this useless assignment to local variable "sorteio".(Á†à‰ûÿÿÿÿHƒ/RMAJORZ
+CODE_SMELL
+g
+java:S1854	"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿH„/RMAJORZ
+CODE_SMELL
+X
+java:S1481	"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿH…/RMINORZ
+CODE_SMELL
+Z
+java:S2140")Use "java.util.Random.nextInt()" instead.(Á†à‰ûÿÿÿÿH‡/RMINORZ
+CODE_SMELL
+]
+java:S1481",Remove this unused "sorteio" local variable.(Á†à‰ûÿÿÿÿHˆ/RMINORZ
+CODE_SMELL
+T
+java:S1481"(Remove this unused "aux" local variable.(­şĞ¯HŠ/RMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(÷â…àHŒ/RMINORZ
+CODE_SMELL
+M
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿH/RMINORZ
+CODE_SMELL
+Q
+java:S3457"%String contains no format specifiers.(·Œ‡H/RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(·Œ‡H/RMAJORZ
+CODE_SMELL
+P
+java:S3457$"%String contains no format specifiers.(úé¿tH‘/RMAJORZ
+CODE_SMELL
+c	java:S106$"9Replace this use of System.out or System.err by a logger.(úé¿tH’/RMAJORZ
+CODE_SMELL
+V
+java:S3457+"%String contains no format specifiers.(å€¾ÿÿÿÿÿH“/RMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(å€¾ÿÿÿÿÿH”/RMAJORZ
+CODE_SMELL
+d	java:S106."9Replace this use of System.out or System.err by a logger.(ù˜Ù·H•/RMAJORZ
+CODE_SMELL
+f	java:S1251"<This block of commented-out lines of code should be removed.(¯ô¦OH–/RMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£àÇâH∫{RMINORZ
+CODE_SMELL
+`
+java:S2864G"4Iterate over the "entrySet" instead of the "keySet".(ù”≥œHª{RMAJORZ
+CODE_SMELL

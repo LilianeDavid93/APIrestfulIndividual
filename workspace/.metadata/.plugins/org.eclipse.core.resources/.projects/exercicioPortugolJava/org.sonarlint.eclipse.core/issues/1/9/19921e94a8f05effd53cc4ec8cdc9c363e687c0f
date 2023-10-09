@@ -1,0 +1,25 @@
+
+]
+java:S1444	",Make this "public static logger" field final(ê˜æòşÿÿÿÿH”-RMINORZ
+CODE_SMELL
+ƒ
+java:S1104	"RMake logger a static final constant or non-public and provide accessors if needed.(ê˜æòşÿÿÿÿH“-RMINORZ
+CODE_SMELL
+
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(­äÁÁ8ÌŠÆ’¨1Hè-RMAJORZ
+CODE_SMELL
+”
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£œ˜‰úÿÿÿÿ8©‹’’¨1Hç-RMAJORZ
+CODE_SMELL
+~
+java:S3457 "KFormat specifiers or lambda should be used instead of string concatenation.(˜É®Ì8ÌŠÆ’¨1Hë-RMAJORZ
+CODE_SMELL
+~
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(­äÁÁ8ÌŠÆ’¨1Hê-RMAJORZ
+CODE_SMELL
+ƒ
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(£œ˜‰úÿÿÿÿ8©‹’’¨1Hæ-RMAJORZ
+CODE_SMELL
+
+java:S2629 "\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(˜É®Ì8ÌŠÆ’¨1Hé-RMAJORZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+
+~
+java:S1192"PDefine a constant instead of duplicating this literal "temp\\banco.txt" 3 times.(È˜¡%H¼xRCRITICALZ
+CODE_SMELL
+
+java:S14883"_Immediately return this expression instead of assigning it to the temporary variable "txtNome".(ÒÍ¿óúÿÿÿÿHÀxRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ò×éHÃxRMINORZ
+CODE_SMELL
+
+java:S4087$"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(©§şŠHÄxRMINORZ
+CODE_SMELL
+
+java:S40876"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(©§şŠHÅxRMINORZ
+CODE_SMELL
+
+java:S4087G"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(©§şŠHÆxRMINORZ
+CODE_SMELL

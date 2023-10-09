@@ -1,0 +1,42 @@
+package com.residencia.biblioteca.entities;
+
+import java.util.Date;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "aluno")
+public class Aluno {
+
+	@Column(name = "numeromatriculaaluno")
+	private Integer numeroMatriculaAluno;
+
+	@Column(name = "nome")
+	private String nome;
+	
+	@Column(name = "dataNascimento")
+	private Date dataNascimento;
+	
+	@Column(name = "cpf")
+	private String cpf;
+	
+	@Column(name = "logradouro")
+	private String logradouro;
+	
+	@Column(name = "numeroLogradouro")
+	private String numeroLogradouro;
+	
+	@Column(name = "complemento")
+	private String complemento;
+	
+	@Column(name = "bairro")
+	private String bairro;
+	
+	@Column(name = "cidade")
+	private String cidade;
+	
+	
+
+}

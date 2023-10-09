@@ -1,0 +1,20 @@
+
+½
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚÆÙœüÿÿÿÿ8é§Õ«ª1HözRCRITICALZ
+CODE_SMELL
+
+java:S2095`"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(«¬öğûÿÿÿÿ8¥«è­ª1HøzRBLOCKERZBUG
+
+java:S2095z"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(«¬öğûÿÿÿÿ8¥«è­ª1HùzRBLOCKERZBUG
+‰	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹åü¬ûÿÿÿÿ8é§Õ«ª1HúzRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßŒ¸ÎHûzRMINORZ
+CODE_SMELL
+h
+java:S2864»"4Iterate over the "entrySet" instead of the "keySet".(Ó³Ï8é§Õ«ª1HüzRMAJORZ
+CODE_SMELL
+
+java:S2095m"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(«¬öğûÿÿÿÿ8¥«è­ª1HızRBLOCKERZBUG
+|
+java:S1192d"FDefine a constant instead of duplicating this literal "CPF: " 3 times.(¾¢‚Ã8é§Õ«ª1HşzRCRITICALZ
+CODE_SMELL

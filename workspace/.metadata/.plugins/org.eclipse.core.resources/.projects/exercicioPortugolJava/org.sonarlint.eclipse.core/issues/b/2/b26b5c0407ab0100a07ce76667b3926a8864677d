@@ -1,0 +1,13 @@
+
+c
+java:S2589Q"7Remove this expression which always evaluates to "true"(РщбHз)RMAJORZ
+CODE_SMELL
+Y
+java:S1604"(Make this anonymous inner class a lambda(¤©ТвьяяяяHл)RMAJORZ
+CODE_SMELL
+T
+java:S1604M"(Make this anonymous inner class a lambda(¦ЌьјHм)RMAJORZ
+CODE_SMELL
+}
+java:S32520"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Хы»цюяяяяHн)RCRITICALZ
+CODE_SMELL

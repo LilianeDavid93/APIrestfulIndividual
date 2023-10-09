@@ -1,0 +1,31 @@
+
+w
+java:S1128"FRemove this unused import 'br.com.poo.bancoAmbl3.pessoas.Funcionario'.(›»öÿÿÿÿÿH»zRMINORZ
+CODE_SMELL
+x
+java:S20954"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(çÂªÀùÿÿÿÿH½zRBLOCKERZBUG
+k
+java:S1118":Add a private constructor to hide the implicit public one.(øÃç¥ÿÿÿÿÿH¾zRMAJORZ
+CODE_SMELL
+U
+java:S14811"*Remove this unused "linha" local variable.(¨Ü-H¿zRMINORZ
+CODE_SMELL
+P
+java:S1168;"$Return an empty map instead of null.(¥¹ïHÁzRMAJORZ
+CODE_SMELL
+]
+java:S1172?",Remove this unused method parameter "saldo".(ªê³‡ùÿÿÿÿHÄzRMAJORZ
+CODE_SMELL
+P
+java:S1168@"$Return an empty map instead of null.(¥¹ïHÆzRMAJORZ
+CODE_SMELL
+s
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(°ÚíHÉzRBLOCKERZBUG
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿHÊzRMINORZ
+CODE_SMELL
+k
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿHÌzRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğµ•áşÿÿÿÿHÎzRMINORZ
+CODE_SMELL

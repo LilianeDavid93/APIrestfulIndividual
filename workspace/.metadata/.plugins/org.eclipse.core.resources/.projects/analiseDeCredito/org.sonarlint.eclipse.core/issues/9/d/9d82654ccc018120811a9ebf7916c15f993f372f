@@ -1,0 +1,17 @@
+
+z
+java:S2095."LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(í­Ì8€Ä—¦ª1HÍ|RBLOCKERZBUG
+ƒ
+java:S1128"KRemove this unused import 'br.com.poo.analisedecredito.entidades.Analista'.(Ì„æÒüÿÿÿÿ8éœ«1HÎ|RMINORZ
+CODE_SMELL
+z
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(°Úí8ş—™º¨1HĞ|RBLOCKERZBUG
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8éœ«1HÑ|RMINORZ
+CODE_SMELL
+k
+java:S1118":Add a private constructor to hide the implicit public one.(øÃç¥ÿÿÿÿÿHÓ|RMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8éœ«1HÔ|RMINORZ
+CODE_SMELL

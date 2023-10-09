@@ -1,0 +1,13 @@
+
+k
+java:S1128":Remove this unused import 'javax.naming.ldap.HasControls'.(µœ•‹üÿÿÿÿHæ{RMINORZ
+CODE_SMELL
+I
+java:S2386"Make this member "protected".(ìü¹‚Hè{RMINORZ
+CODE_SMELL
+‚
+java:S1104"VMake mapaContas a static final constant or non-public and provide accessors if needed.(ìü¹‚Hé{RMINORZ
+CODE_SMELL
+\
+java:S1444"0Make this "public static mapaContas" field final(ìü¹‚Hê{RMINORZ
+CODE_SMELL

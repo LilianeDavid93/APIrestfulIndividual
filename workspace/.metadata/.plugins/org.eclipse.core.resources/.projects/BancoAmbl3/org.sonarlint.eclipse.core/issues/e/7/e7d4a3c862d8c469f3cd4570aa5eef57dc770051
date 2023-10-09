@@ -1,0 +1,13 @@
+
+Å	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΩŸÇÖ¯ˇˇˇˇH‚sRMINORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ﬂå∏ŒH„sRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ŸÅ ¯H‰sRMAJORZ
+CODE_SMELL
+`
+java:S2864c"4Iterate over the "entrySet" instead of the "keySet".(ù”≥œHÂsRMAJORZ
+CODE_SMELL
+b
+java:S1135v"2Complete the task associated to this TODO comment.(ª†ÊûˇˇˇˇˇHÊsRINFOZ
+CODE_SMELL

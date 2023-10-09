@@ -1,0 +1,23 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ªõ›†HÕ.RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(°Í¡àHÖ.RMAJORZ
+CODE_SMELL
+^
+java:S11999"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÈ.RMINORZ
+CODE_SMELL
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘HÉ.RCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(íñğHÔ.RMAJORZ
+CODE_SMELL
+M
+java:S1116("Remove this empty statement.(Åñ­õşÿÿÿÿHØ.RMINORZ
+CODE_SMELL
+d	java:S106="9Replace this use of System.out or System.err by a logger.(»ÄŒ¾H×.RMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(–ĞÃıÿÿÿÿHÚ.RMAJORZ
+CODE_SMELL
+^
+java:S1199)"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÇ.RMINORZ
+CODE_SMELL

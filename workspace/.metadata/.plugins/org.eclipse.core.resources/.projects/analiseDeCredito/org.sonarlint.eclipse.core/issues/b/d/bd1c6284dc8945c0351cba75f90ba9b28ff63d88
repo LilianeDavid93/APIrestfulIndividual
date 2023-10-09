@@ -1,0 +1,36 @@
+
+N
+java:S3626r"Remove this redundant jump.(ûÁİ…8Î«‡¨1HÌ|RMINORZ
+CODE_SMELL
+W
+java:S2629U"$Invoke method(s) only conditionally.(ÊüÍò8ÛÛŠ…«1HÃ|RMAJORZ
+CODE_SMELL
+N
+java:S2119Ö"Save and re-use this "Random".(öÈÎ¡8ûûù…¨1HÈ|RCRITICALZBUG
+
+java:S3457â"KFormat specifiers or lambda should be used instead of string concatenation.(™”ÿµ8ÛÛŠ…«1HÊ|RMAJORZ
+CODE_SMELL
+N
+java:S2119Ö"Save and re-use this "Random".(öÈÎ¡8Ô¥ÿ¨1HÇ|RCRITICALZBUG
+g
+java:S2864|"4Iterate over the "entrySet" instead of the "keySet".(ï¤›è8è¥î»¨1HÁ|RMAJORZ
+CODE_SMELL
+„
+java:S3457û"KFormat specifiers or lambda should be used instead of string concatenation.(ßÁƒÕùÿÿÿÿ8ÛÛŠ…«1HË|RMAJORZ
+CODE_SMELL
+N
+java:S3626o"Remove this redundant jump.(ûÁİ…8ûûù…¨1HÉ|RMINORZ
+CODE_SMELL
+M
+java:S2119G"Save and re-use this "Random".(éëˆ8Î«‡¨1HÄ|RCRITICALZBUG
+M
+java:S2119f"Save and re-use this "Random".(ÑÍ·ı8ÇÉØ¨1HÀ|RCRITICALZBUG
+N
+java:S3626u"Remove this redundant jump.(ûÁİ…8Î«‡¨1HÆ|RMINORZ
+CODE_SMELL
+X
+java:S2629‘"$Invoke method(s) only conditionally.(ãÛÇ¨8ÛÛŠ…«1HÅ|RMAJORZ
+CODE_SMELL
+X
+java:S2629²"$Invoke method(s) only conditionally.(ãÛÇ¨8ÛÛŠ…«1HÂ|RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+F
+java:S2111"!Use "BigDecimal.valueOf" instead.(ƒô©ÄH±-RMAJORZBUG
+]
+java:S1068"*Remove this unused "logger" private field.(Á¦¼Ä8­í¤’¨1HÕ-RMAJORZ
+CODE_SMELL
+K
+java:S2111"!Use "BigDecimal.valueOf" instead.(”»µÊùÿÿÿÿH³-RMAJORZBUG
+F
+java:S2111"!Use "BigDecimal.valueOf" instead.(‘»¡‡H¶-RMAJORZBUG

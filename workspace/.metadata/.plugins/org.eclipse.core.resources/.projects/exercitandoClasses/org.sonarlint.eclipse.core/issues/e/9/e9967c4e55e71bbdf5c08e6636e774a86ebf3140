@@ -1,0 +1,10 @@
+
+|
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾H¦|RMINORZ
+CODE_SMELL
+}
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ H§|RMINORZ
+CODE_SMELL
+…
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(Éô£ßýÿÿÿÿH¨|RMINORZ
+CODE_SMELL

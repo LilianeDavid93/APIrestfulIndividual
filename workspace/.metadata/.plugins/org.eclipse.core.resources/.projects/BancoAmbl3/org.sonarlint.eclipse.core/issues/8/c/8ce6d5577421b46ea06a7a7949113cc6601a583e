@@ -1,0 +1,17 @@
+
+{
+java:S11928"GDefine a constant instead of duplicating this literal "Tahoma" 6 times.(û–‹ÙùÿÿÿÿHœrRCRITICALZ
+CODE_SMELL
+T
+java:S1604P"(Make this anonymous inner class a lambda(¦ü¼H£rRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ÏòÍúÿÿÿÿH¤rRMINORZ
+CODE_SMELL
+†
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¿…·¥ûÿÿÿÿH¥rRCRITICALZ
+CODE_SMELL
+}
+java:S3252,"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿH¯rRCRITICALZ
+CODE_SMELL
+i	java:S106W"9Replace this use of System.out or System.err by a logger.(ŠâÌ¬ûÿÿÿÿH±rRMAJORZ
+CODE_SMELL

@@ -1,0 +1,58 @@
+
+a
+java:S2209"5Change this instance-reference to a static reference.(≠æÂπHÇ{RMAJORZ
+CODE_SMELL
+S
+java:S1481"'Remove this unused "CC" local variable.(≠æÂπHÑ{RMINORZ
+CODE_SMELL
+p
+java:S1128"?Remove this unused import 'br.com.poo.bancoAmbl3.contas.Conta'.(’ôâ¯ˇˇˇˇHÜ{RMINORZ
+CODE_SMELL
+j
+java:S1854">Remove this useless assignment to local variable "presidente".(©Åß√Hà{RMAJORZ
+CODE_SMELL
+m
+java:S1854"<Remove this useless assignment to local variable "gerentes".(‘ª¶Æ˚ˇˇˇˇHâ{RMAJORZ
+CODE_SMELL
+{	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÇ¸kHä{RMINORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(Â»ÉHã{RMAJORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠æÂπHå{RMINORZ
+CODE_SMELL
+b
+java:S1854"6Remove this useless assignment to local variable "CC".(≠æÂπHç{RMAJORZ
+CODE_SMELL
+o
+java:S1128	"DRemove this unused import 'br.com.poo.bancoAmbl3.io.LeituraEscrita'.(ëÍä	Hé{RMINORZ
+CODE_SMELL
+X
+java:S1481",Remove this unused "diretor" local variable.(ê–‚√Hê{RMINORZ
+CODE_SMELL
+^
+java:S1481"-Remove this unused "gerentes" local variable.(‘ª¶Æ˚ˇˇˇˇHí{RMINORZ
+CODE_SMELL
+ä	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û≠Û´˙ˇˇˇˇHî{RMINORZ
+CODE_SMELL
+Y
+java:S1481"-Remove this unused "clientes" local variable.(∂—∂πHï{RMINORZ
+CODE_SMELL
+a
+java:S2209"5Change this instance-reference to a static reference.(∂—∂πHó{RMAJORZ
+CODE_SMELL
+g	java:S125#"<This block of commented-out lines of code should be removed.(åÖî°Hô{RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ê∏á‡Hö{RMAJORZ
+CODE_SMELL
+h
+java:S1854"<Remove this useless assignment to local variable "clientes".(∂—∂πHù{RMAJORZ
+CODE_SMELL
+g
+java:S1854";Remove this useless assignment to local variable "diretor".(ê–‚√Hû{RMAJORZ
+CODE_SMELL
+`
+java:S2209"5Change this instance-reference to a static reference.(ÎÇ¸kHü{RMAJORZ
+CODE_SMELL
+[
+java:S1481"/Remove this unused "presidente" local variable.(©Åß√H°{RMINORZ
+CODE_SMELL

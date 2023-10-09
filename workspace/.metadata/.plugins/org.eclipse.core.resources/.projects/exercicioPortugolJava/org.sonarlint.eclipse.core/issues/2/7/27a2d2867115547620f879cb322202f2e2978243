@@ -1,0 +1,22 @@
+
+|
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(²È±ÈþÿÿÿÿHï-RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ƒ‚îûÿÿÿÿHð-RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(Â„‚ãùÿÿÿÿHö-RMAJORZ
+CODE_SMELL
+a
+java:S1481"0Remove this unused "minhaConta2" local variable.(Û…·ÉýÿÿÿÿHò-RMINORZ
+CODE_SMELL
+|
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(²È±ÈþÿÿÿÿHñ-RMAJORZ
+CODE_SMELL
+|
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(²È±ÈþÿÿÿÿHô-RMAJORZ
+CODE_SMELL
+p
+java:S1854"?Remove this useless assignment to local variable "minhaConta2".(Û…·ÉýÿÿÿÿHî-RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ëð‰þÿÿÿÿHõ-RMAJORZ
+CODE_SMELL

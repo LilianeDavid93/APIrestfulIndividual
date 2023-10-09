@@ -1,0 +1,15 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(—ÒÿÿÿÿÿHΰ.RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªΠΨÿÿÿÿÿHί.RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(³πψHέ.RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(΄€Ρ¦ψÿÿÿÿHή.RMAJORZ
+CODE_SMELL
+w
+java:S1854"?Remove this useless assignment to local variable "disciplina2".(€¦ύÿÿÿÿ8¨ων’¨1Hγ.RMAJORZ
+CODE_SMELL
+c
+java:S1481"0Remove this unused "disciplina2" local variable.(·‚λ8¨ων’¨1Hδ.RMINORZ
+CODE_SMELL
