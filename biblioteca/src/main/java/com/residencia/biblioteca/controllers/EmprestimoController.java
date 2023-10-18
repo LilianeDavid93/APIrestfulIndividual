@@ -23,27 +23,37 @@ public class EmprestimoController {
 
 	@Autowired
 	EmprestimoService emprestimoService;
-	
+
 	@GetMapping
-	public ResponseEntity<List<Emprestimo>> listarEmprestimos(){
+	public ResponseEntity<List<Emprestimo>> listarEmprestimos() {
 		return new ResponseEntity<>(emprestimoService.listarEmprestimo(), HttpStatus.OK);
 	}
-	
+
 	@GetMapping("/{id}")
-	public ResponseEntity<Emprestimo> buscarPorId(@PathVariable Integer id) {
-		return new ResponseEntity<>(emprestimoService.buscarEmprestimoId(id), HttpStatus.OK);
+	public ResponseEntity<Emprestimo> buscarEmprestimoId(@PathVariable Integer id) {
+		Emprestimo emprestimo = emprestimoService.buscarEmprestimoId(id);
+		if (emprestimo == null) {
+			return new ResponseEntity<>(emprestimo, HttpStatus.NOT_FOUND);
+		} else {
+			return new ResponseEntity<>(emprestimo, HttpStatus.OK);
+		}
 	}
+
 	@PostMapping
-	public ResponseEntity<Emprestimo> salvar(@RequestBody Emprestimo emprestimo){
+	public ResponseEntity<Emprestimo> salvar(@RequestBody Emprestimo emprestimo) {
 		return new ResponseEntity<>(emprestimoService.salvarEmprestimo(emprestimo), HttpStatus.CREATED);
 	}
+
 	@PutMapping
-	public ResponseEntity<Emprestimo> atualizar(@RequestBody Emprestimo emprestimo){
+	public ResponseEntity<Emprestimo> atualizar(@RequestBody Emprestimo emprestimo) {
 		return new ResponseEntity<>(emprestimoService.atualizaEmprestimo(emprestimo), HttpStatus.OK);
 	}
+
 	@DeleteMapping
-	public ResponseEntity<String> deletarEmprestimo(@RequestBody Emprestimo emprestimo){
-		emprestimoService.deletaEmprestimo(emprestimo);
-		return new ResponseEntity<>("Deletado com sucesso", HttpStatus.OK);
+	public ResponseEntity<String> deletarEmprestimo(@RequestBody Emprestimo emprestimo) {
+		if (emprestimoService.deletaEmprestimo(emprestimo))
+			return new ResponseEntity<>("Deletado com sucesso", HttpStatus.OK);
+		else
+			return new ResponseEntity<>("Nao foi possivel deletar", HttpStatus.BAD_REQUEST);
 	}
 }

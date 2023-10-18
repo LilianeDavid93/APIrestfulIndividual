@@ -3,8 +3,8 @@ package com.residencia.biblioteca.entities;
 import java.sql.Date;
 import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -16,30 +16,34 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
+@JsonIdentityInfo(
+		generator = ObjectIdGenerators.PropertyGenerator.class,
+		property = "codigoLivro"
+, scope = Livro.class)
 @Entity
 @Table(name = "livro")
 
 public class Livro {
-
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "codigolivro")
 	private Integer codigoLivro;
 
-	@JsonBackReference(value = "editora-livro-ref")
+	/*@JsonBackReference(value = "editora-livro-ref")*/
 	@ManyToOne
 	@JoinColumn(name = "codigoeditora", referencedColumnName = "codigoeditora")
 	private Editora editora;
 
-	@JsonManagedReference(value = "livro-emprestimo-ref")
+	/*@JsonManagedReference(value = "livro-emprestimo-ref")*/
 	@OneToMany(mappedBy = "livro")
 	private List<Emprestimo> emprestimos;
 
 	@Column(name = "nomelivro")
 	private String nomeLivro;
-
-	@Column(name = "nomeautor")
-	private String nomeAutor;
+	
+	@ManyToOne
+    @JoinColumn(name = "codigoautor", referencedColumnName = "codigoautor")
+    private Autor autor;
 
 	@Column(name = "datalancamento")
 	private Date dataLancamento;
@@ -61,14 +65,6 @@ public class Livro {
 
 	public void setNomeLivro(String nomeLivro) {
 		this.nomeLivro = nomeLivro;
-	}
-
-	public String getNomeAutor() {
-		return nomeAutor;
-	}
-
-	public void setNomeAutor(String nomeAutor) {
-		this.nomeAutor = nomeAutor;
 	}
 
 	public Date getDataLancamento() {
@@ -93,6 +89,15 @@ public class Livro {
 
 	public void setEditora(Editora editora) {
 		this.editora = editora;
+	}
+	
+
+	public Autor getAutor() {
+		return autor;
+	}
+
+	public void setAutor(Autor autor) {
+		this.autor = autor;
 	}
 
 	public List<Emprestimo> getEmprestimos() {

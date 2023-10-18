@@ -1,5 +1,7 @@
 
-
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ã¢ÌÇüÿÿÿÿ8ø¸šê¯1H©RMAJORZBUG
-n	java:S125$"<This block of commented-out lines of code should be removed.(ñú˜8ø¸šê¯1HªRMAJORZ
+y
+java:S1126I"AReplace this if-then-else statement by a single return statement.(‡ÂÎôùÿÿÿÿ8Èšîİ±1HõRMINORZ
+CODE_SMELL
+T
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8¨ÊÚ³1HóRMINORZ
 CODE_SMELL

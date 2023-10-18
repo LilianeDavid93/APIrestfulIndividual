@@ -1,5 +1,0 @@
-package com.residencia.biblioteca.repositories;
-
-public interface EditoraRepository {
-
-}

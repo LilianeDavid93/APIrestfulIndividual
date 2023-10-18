@@ -4,12 +4,24 @@
 		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="isRegEx" value="true"/>
-		<item key="selection" value="livro"/>
+		<item key="selection" value="Livro"/>
 		<list key="findhistory">
+			<item value="Llivro"/>
 			<item value="aluno"/>
-			<item value="livro"/>
+			<item value="@OneToOne\(mappedBy = &quot;instrutor&quot;\)\R\tprivate Instrutor instrutor;"/>
+			<item value="Instrutor"/>
+			<item value="turma"/>
+			<item value="Telefone"/>
+			<item value="autor"/>
+			<item value="Aluno"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Livro"/>
+			<item value="Telefone"/>
+			<item value="telefone"/>
+			<item value="Turma"/>
+			<item value="instrutor"/>
+			<item value="Autor"/>
 			<item value="editora"/>
 		</list>
 	</section>

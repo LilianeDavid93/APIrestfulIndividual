@@ -1,5 +1,4 @@
 
-n	java:S125#"<This block of commented-out lines of code should be removed.(ñú˜8Ş­íé¯1H¡RMAJORZ
+t
+java:S1126G"AReplace this if-then-else statement by a single return statement.(Ó”ùÂ8º´¨İ±1H²RMINORZ
 CODE_SMELL
-|
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(´ ¾ú8Ô µé¯1H RMAJORZBUG
