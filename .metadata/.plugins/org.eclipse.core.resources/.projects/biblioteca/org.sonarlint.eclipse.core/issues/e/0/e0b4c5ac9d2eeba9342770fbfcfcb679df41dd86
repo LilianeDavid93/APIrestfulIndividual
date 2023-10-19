@@ -1,16 +1,21 @@
 
+`
+java:S5411="(Use a primitive boolean expression here.(ƒÖÉşÿÿÿÿ8‘ôòİ±1H‹
+RMINORZ
+CODE_SMELL
 “
-java:S1488D"`Immediately return this expression instead of assigning it to the temporary variable "entidade".(ìµÆÇ8ÚÇ½ƒ´1Hà	RMINORZ
+java:S1488D"`Immediately return this expression instead of assigning it to the temporary variable "entidade".(ìµÆÇ8ÚÇ½ƒ´1H†
+RMINORZ
 CODE_SMELL
 ©
-java:S1130C"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ªÏàÇşÿÿÿÿ8ÚÇ½ƒ´1Hè	RMINORZ
-CODE_SMELL
-“
-java:S1488I"[Immediately return this expression instead of assigning it to the temporary variable "dto".(ÊÑÃ¢úÿÿÿÿ8ÚÇ½ƒ´1Hã	RMINORZ
-CODE_SMELL
-`
-java:S5411="(Use a primitive boolean expression here.(ƒÖÉşÿÿÿÿ8‘ôòİ±1HüRMINORZ
+java:S1130C"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ªÏàÇşÿÿÿÿ8ÚÇ½ƒ´1H
+RMINORZ
 CODE_SMELL
 ¤
-java:S1130H"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(î¢Â8ÚÇ½ƒ´1Hæ	RMINORZ
+java:S1130H"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(î¢Â8ÚÇ½ƒ´1H‰
+RMINORZ
+CODE_SMELL
+“
+java:S1488I"[Immediately return this expression instead of assigning it to the temporary variable "dto".(ÊÑÃ¢úÿÿÿÿ8ÚÇ½ƒ´1Hƒ
+RMINORZ
 CODE_SMELL

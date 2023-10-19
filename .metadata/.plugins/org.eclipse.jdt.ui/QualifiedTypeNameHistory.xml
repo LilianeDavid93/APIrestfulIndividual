@@ -23,4 +23,6 @@
     <fullyQualifiedTypeName name="org.hibernate.type.ConvertedBasicArrayType"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="org.modelmapper.ModelMapper"/>
+    <fullyQualifiedTypeName name="com.residencia.biblioteca.entities.Role"/>
+    <fullyQualifiedTypeName name="com.residencia.biblioteca.entities.User"/>
 </qualifiedTypeNameHistroy>

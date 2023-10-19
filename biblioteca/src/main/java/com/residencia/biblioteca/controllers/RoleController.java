@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.residencia.seguranca.entity.Role;
-import br.com.residencia.seguranca.security.service.RoleService;
+import com.residencia.biblioteca.entities.Role;
+import com.residencia.biblioteca.security.service.RoleService;
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController

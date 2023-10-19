@@ -16,6 +16,9 @@ public class LivroService {
 	@Autowired
 	LivroRepository livroRep;
 
+	@Autowired
+	EmailService emailService;
+
 	public List<Livro> listarLivro() {
 		return livroRep.findAll();
 	}
@@ -45,14 +48,16 @@ public class LivroService {
 			livroResDTO.setNomeEditora(livro.getEditora().getNome());
 		}
 		return livrosDTO;
-		}
-	
+	}
+
 	public Livro buscarLivroId(Integer id) {
 		return livroRep.findById(id).orElse(null);
 	}
 
 	public Livro salvarLivro(Livro livro) {
-		return livroRep.save(livro);
+		Livro newLivro = livroRep.save(livro);
+		emailService.enviarEmail("lilica@gmail.com", "Novo livro cadastrado", newLivro.toString());
+		return newLivro;
 	}
 
 	public Livro atualizaLivro(Livro livro) {
@@ -74,6 +79,11 @@ public class LivroService {
 			return true;
 
 		return false;
+	}
+
+	@Override
+	public String toString() {
+		return "LivroService [livroRep=" + livroRep + ", emailService=" + emailService + "]";
 	}
 
 }
